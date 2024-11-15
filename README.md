@@ -1,5 +1,4 @@
 # Ex.No:1a  			Study of Socket Programming
-
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
@@ -37,6 +36,7 @@ To perform a study on Socket Programming
 •	They then listen for incoming connections with listen() and accept connections with accept().
 •	Once a connection is establi
 •	shed, servers can send and receive data using send() and recv().
+
 
 ## Client –Server Operations
 
